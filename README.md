@@ -7,7 +7,7 @@ My first swift application. This app ask the user to provide their full name, sc
 ### App Walk-though
 
 
-<img src="http://www.giphy.com/gifs/kL0P9V6r2N5NPpSczG" width=200><br>
+<img src="http://www.giphy.com/gifs/kL0P9V6r2N5NPpSczG.gif" width=200><br>
 
 
 ### Required Features
