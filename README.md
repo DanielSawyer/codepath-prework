@@ -2,7 +2,7 @@
 
 ### App Description
 
-My first swift application. This app ask the user to provide their full name, school name, major, year of study, how many pets they have and if they want more. Once the user fills out that, they can press the "Introduce youself button" where they will 
+My first swift application. This app ask the user to provide their full name, school name, major, year of study, how many pets they have and if they want more. Once the user fills out that, they can press the "Introduce youself button" where they will be met with a popup that is an introduction with their provided information
 
 ### App Walk-though
 
