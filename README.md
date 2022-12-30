@@ -7,7 +7,7 @@ My first swift application. This app ask the user to provide their full name, sc
 ### App Walk-though
 
 
-![](https://media.giphy.com/media/kL0P9V6r2N5NPpSczG/giphy.gif)
+![](App-Walkthrough.gif)
 
 ### Required Features
 
